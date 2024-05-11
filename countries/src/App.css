@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  display: flex;
+}
+
+.left{
+  width: 300px;
+}
+
+.left-ul li{
+    cursor: pointer;
+}
+
+.right{
+  flex: 1;
+}
